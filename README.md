@@ -1,5 +1,7 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aliberkayberber)
 <h1 align="center">Hi 👋, I'm Ali Berkay Berber</h1>
 <h3 align="center">A passionate Backend developer from Turkey</h3>
+
 
 - 🔭 I’m currently working with **.Net,PostgreSQL and anything related with C#**
 
