@@ -1,15 +1,15 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=aliberkayberber)
 <h1 align="center">Hi 👋, I'm Ali Berkay Berber</h1>
-<h3 align="center">A passionate Backend developer from Turkey</h3>
+<h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
 
-- 🔭 I’m currently working with **.Net,PostgreSQL and anything related with C#**
+- 🔭 I’m currently working with **.Net,PostgreSQL and anything related with C# and HTML and CSS**
 
-- 🌱 I’m currently learning **.Net Backend Course**
+- 🌱 I’m currently learning **Full Stack Course**
 
 - 📝 I regularly write articles on [https://medium.com/@aliberkayberber](https://medium.com/@aliberkayberber)
 
-- 💬 Ask me about **.Net,PostgreSQL**
+- 💬 Ask me about **.Net,PostgreSQL,CSS**
 
 - 📫 How to reach me **aliberkayberber@gmail.com**
 
